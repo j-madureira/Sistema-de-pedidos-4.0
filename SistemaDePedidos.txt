@@ -1,0 +1,36 @@
+Algoritimo do Programa :
+
+- Boas vindas ao cliente
+- Receber o nome do cliente
+
+CADASTRO
+
+- Nome de usuário para cadastro
+- Senha para cadastro
+
+LOGIN
+
+- Receber o nome do usuário pelo Prompt para LOGIN
+- Receber a senha do usuário pelo Prompt para LOGIN
+
+PEDIDOS
+
+- Receber os pedidos do cliente sendo eles:
+- Lanches
+- Refrigerantes
+- Sobremesas
+
+LOCALIZAÇÃO DO CLIENTE
+
+- Cidade do cliente
+- Bairro do cliente
+- Rua do cliente
+- Número da casa do cliente
+
+RECEBER AS INFORMAÇÕES DO CLIENTE PARA ENTREGAR NO ENDEREÇO
+
+- Nome do cliente
+- Todos os pedidos do cliente
+- Endereço para entrega
+
+
